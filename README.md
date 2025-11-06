@@ -15,4 +15,4 @@ npm start path/to/file.sch
 ```
 
 Outputs `context.json` in the current directory.
-# schematicConverter
+
