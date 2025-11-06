@@ -1,6 +1,6 @@
 # Schematic Converter
 
-Convert KiCad schematic files to JSON.
+Convert KiCad schematic files to JSON for LLM context.
 
 ## Usage
 
