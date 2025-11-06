@@ -1,0 +1,20 @@
+{
+  "name": "schematic-converter",
+  "version": "1.0.0",
+  "description": "TypeScript CLI tool to convert KiCad schematic files to JSON context",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "convert": "ts-node src/index.ts"
+  },
+  "keywords": ["kicad", "schematic", "parser", "cli"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}
+
